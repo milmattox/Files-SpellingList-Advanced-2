@@ -1,0 +1,5 @@
+bird
+cat
+donkey
+elephant
+giraffe
